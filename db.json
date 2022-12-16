@@ -1,0 +1,49 @@
+
+  {
+ 
+    "films": [
+    
+     {
+    
+         "id": "1",
+    
+         "title": "Troll",
+    
+         "runtime": "101",
+    
+         "capacity": 30,
+    
+         "showtime": "04:30PM",
+    
+         "tickets_sold": 20,
+    
+         "description": "Deep in the Dovre mountain, something gigantic wakes up after a thousand years in captivity. The creature destroys everything in its path and quickly approaches Oslo.",
+    
+         "poster": "./images/troll.jpg"
+    
+       },
+       {
+    
+        "id": "2",
+   
+        "title": "Black Adam",
+   
+        "runtime": "125",
+   
+        "capacity": 30,
+   
+        "showtime": "05:30PM",
+   
+        "tickets_sold": 25,
+   
+        "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods–and imprisoned just as quickly–Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world",
+   
+        "poster": "./images/Black Adam.jpg"
+   
+      }
+
+    
+    ]
+    
+    }
+
