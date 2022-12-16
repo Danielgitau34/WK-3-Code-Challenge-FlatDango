@@ -1,5 +1,5 @@
 body{
-   background-color: rgb(4, 4, 74);
+   background-color: rgb(3, 3, 62);
 }
 #h1{
     text-align: center;
@@ -14,7 +14,7 @@ body{
     text-align: left;
     font-size: smaller;
     cursor: pointer;
-    color: rgb(57, 39, 158);
+    color: rgb(24, 221, 205);
     float: left;
     font-weight: lighter;
 }
@@ -33,32 +33,17 @@ body{
 }
 #h3{
     text-align: center;
-    color: rgb(195, 40, 40);
+    color: rgb(214, 22, 173);
 }
 .num,.show,.tick{
     text-align: center;
-    font-weight: bolder;g
-    color: ;
+    font-weight: bolder;
+    color: rgb(168, 131, 53)
 }
 #btn{
     display: block;
     margin-left: auto;
     margin-right: auto;
     font-size: 30px;
-    background-color: rgb(28, 8, 103);
+    background-color: rgb(15, 112, 15);
 }
-white_check_mark
-eyes
-raised_hands
-
-
-
-
-
-
-
-
-
-
-
-
